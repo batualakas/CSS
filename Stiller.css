@@ -1,0 +1,42 @@
+﻿body
+{
+    background-color:antiquewhite;
+}
+p
+{
+color:#e48e50;
+font-size:20px;
+}
+ul li
+{
+    color:#9d2c2c;
+    font-size:18px;
+    font-style:italic;    
+    list-style-type:square;
+}
+h1
+{
+    color:palevioletred;
+}
+#arkaplan
+{
+background-color:aqua;
+width:100px;
+height:100px;
+}
+.box
+{
+    width:350px;
+    height:200px;
+    background-color:#ffcc33;
+    margin:5px 0 0 0;
+}
+p.box
+{
+    font-size:30px;
+    color:darkblue;
+}
+div,p,a,#arkaplan,.box
+{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
